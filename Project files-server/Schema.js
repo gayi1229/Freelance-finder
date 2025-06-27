@@ -123,6 +123,7 @@ const chatSchema = mongoose.Schema({
     }
 })
 
+
 export const User = mongoose.model('users', userSchema);
 export const Freelancer = mongoose.model('freelancer', freelancerSchema);
 export const Project = mongoose.model('projects', projectSchema);
