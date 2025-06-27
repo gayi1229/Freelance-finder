@@ -16,5 +16,6 @@ A full-stack web application to connect freelancers with clients, enabling seaml
 - **Backend:** Node.js, Express.js, Socket.io
 - **Database:** MongoDB with Mongoose
 - **Others:** CORS, Body-parser
+- 
 
 
